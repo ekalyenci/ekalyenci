@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ekalyenci
+- I am studying at Gaziantep University Electrical and Electronical Engineering.I am fourth year student in this year.
 - 👀 I’m interested in automotive industry,Autocad,PCB modelling (with Altium),C++ and MatLab.
 - 🌱 I will learn about some coding programs nowadays.I'm very excited for this course.
 - 💞️ ı am looking on collaborate ...
